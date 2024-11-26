@@ -12,5 +12,8 @@ dropout减轻过拟合
 非周期，减少NLP相关
 检查多余打印和注释
 TODO
+傅里叶
+early stop
+仅特征提取不做标签预测可以使用testing data
 
 model
