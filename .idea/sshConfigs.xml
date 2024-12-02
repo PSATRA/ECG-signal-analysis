@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.15.88.51" id="ee893b68-7cd2-4240-9a38-d8d5499a7a62" port="6123" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.15.88.51" id="ee893b68-7cd2-4240-9a38-d8d5499a7a62" port="6123" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
     </configs>
   </component>
 </project>
